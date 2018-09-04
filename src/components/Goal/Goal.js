@@ -17,3 +17,6 @@ class Goal extends Component {
 }
 
 export default Goal;
+
+// Lots of logic here?
+// Spend some figuring out specifically what you want done.

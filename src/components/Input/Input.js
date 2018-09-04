@@ -17,3 +17,6 @@ class Input extends Component {
 }
 
 export default Input;
+
+// See excel sheet for inputs.
+// Give some numerical outputs?

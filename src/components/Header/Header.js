@@ -23,3 +23,6 @@ class Header extends Component {
 }
 
 export default Header;
+
+// Bar across the top with the site title clearly displayed above and the links lined up below.
+// Mousing over the links will highlight them in a rectangle flush with the bottom of the header bar.

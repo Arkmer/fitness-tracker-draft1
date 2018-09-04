@@ -17,3 +17,6 @@ class Admin extends Component {
 }
 
 export default Admin;
+
+// Typical admin page.
+// Name, age, gender, days you want to measure, color scheme(?)

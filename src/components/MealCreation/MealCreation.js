@@ -17,3 +17,11 @@ class MealCreation extends Component {
 }
 
 export default MealCreation;
+
+// Many inputs...
+// Input for calories, macros, and quantity.
+// Search for foods?
+// Ability to combine foods into meals.
+// Ability to combine meals into days.
+
+// Days into weeks? Weeks into months?
